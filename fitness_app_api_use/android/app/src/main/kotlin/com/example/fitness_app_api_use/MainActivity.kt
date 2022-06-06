@@ -1,0 +1,6 @@
+package com.example.fitness_app_api_use
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
